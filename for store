@@ -1,0 +1,6 @@
+<?php include('include/fruit-shop.php');  ?>
+        <?php include('include/fruit-shop2.php');?>
+        <?php include('include/fresh-vegetables.php');?>
+        <?php include('include/banner.php');?>
+        <?php include('include/best-seller-product.php');?>
+        <?php include('include/fact.php');?>
